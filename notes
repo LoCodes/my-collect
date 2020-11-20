@@ -1,0 +1,8 @@
+
+# collection = []
+# languages.collect do |language| 
+#     language.upcase
+# end 
+# students.collect do |student|
+#     student.split(" ").first
+# end
